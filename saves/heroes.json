@@ -1,0 +1,13 @@
+[
+  {
+    "name": "леша",
+    "hero_class": "воин",
+    "level": 1,
+    "experience": 0,
+    "gold": 25,
+    "health": 0,
+    "achievements": []
+  }
+]
+
+
